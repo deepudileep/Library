@@ -1,4 +1,4 @@
-# Library API (sample)
+# Library API - User Vs 2026
 
 Prereqs:
 - .NET 7+ SDK (or .NET 8)
